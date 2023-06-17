@@ -41,7 +41,8 @@ body * {
 
 /*  */
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* border: 1px solid red; */
   margin: 56px auto 0px;
   padding: 0 24px;
@@ -67,9 +68,9 @@ body * {
 
 /* botao light mode */
 #switch {
- position: relative;
- width: 64px;
- margin: 4px auto;
+  position: relative;
+  width: 64px;
+  margin: 4px auto;
 }
 #switch button {
   width: 32px;
@@ -89,16 +90,16 @@ body * {
 }
 #switch span {
   display: block;
- /* display: flex; 
+  /* display: flex; 
  align-self: center;
  margin-left: -30px;  */
- width: 64px;
- height: 24px;
- background: var(--surface-color);
- border: 1px solid var(--stroke-color);
- backdrop-filter: blur(4px);
- -webkit-backdrop-filter: blur(4px);
- border-radius: 9999px;
+  width: 64px;
+  height: 24px;
+  background: var(--surface-color);
+  border: 1px solid var(--stroke-color);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 9999px;
 }
 
 /* links */
