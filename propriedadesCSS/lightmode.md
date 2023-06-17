@@ -1,0 +1,3 @@
+# No CSS, não há uma variável chamada "var". `"var" é uma palavra-chave usada no CSS para criar e usar variáveis personalizadas.`
+
+# As variáveis no CSS são usadas para armazenar valores que podem ser reutilizados em várias partes do seu código CSS. Elas são declaradas usando a sintaxe `"--nome-da-variavel: valor;"` e podem ser definidas em qualquer lugar dentro do escopo CSS, geralmente no seletor `:root` para torná-las globais.
