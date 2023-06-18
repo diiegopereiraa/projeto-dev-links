@@ -10,7 +10,7 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-<br>git
+<br>
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
@@ -39,11 +39,15 @@ O Devlinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através 
+Você pode visualizar o layout do projeto através
+
 ### Original
-[DESSE LINK](https://www.figma.com/community/file/1187422022288947321). 
+
+[DESSE LINK](https://www.figma.com/community/file/1187422022288947321).
+
 ### Prototipo alterado:
-[DESSE LINK](https://www.figma.com/file/jyEiM5fHUv5j96sYeXNKX4/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10%3A620&t=9f1lYDhZDnl5b6dB-1)<br>
+
+[DESSE LINK](<https://www.figma.com/file/jyEiM5fHUv5j96sYeXNKX4/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10%3A620&t=9f1lYDhZDnl5b6dB-1>)<br>
 É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
