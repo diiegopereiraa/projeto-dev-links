@@ -84,10 +84,10 @@ body * {
   transform: translateY(-50%);
   left: 0;
   z-index: 1;
+  animation: slide-back 0.2s;
 }
 .light #switch button {
-  right: 0;
-  left: initial;
+  animation: slide-ani 0.2s forwards;
 }
 #switch span {
   display: block;
