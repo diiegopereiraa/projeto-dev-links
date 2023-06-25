@@ -17,13 +17,13 @@ function toggleMode() {
 
   if (html.classList.contains("light")) {
     // Se tiver light mode, adicionar a imagem light
-    img.setAttribute("src", "./assets/foto-light.png")
+    img.setAttribute("src", "../foto-light.png")
     // Se tiver light mode, adicionar a legenda na imagem
     img.setAttribute("alt","Foto de Diego Pereira de óculos, com camiseta branca e fundo laranja.")
   } else {
     // Se tiver sem light mode, manter a imagem padrão
-    img.setAttribute("src", "./assets/foto.png")
-    // Se tiver sem light mode, manter a legenda da imagem 
+    img.setAttribute("src", "../foto.png")
+    // Se tiver sem light mode, manter a legenda da imagem
     img.setAttribute("alt","Foto de Diego Pereira, com camiseta preta e fundo vermelho.")
   }
 }
