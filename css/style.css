@@ -56,7 +56,7 @@ body * {
 }
 
 #profile img {
-  /* display: block; */
+  display: block;
   width: 112px;
   margin: auto;
 }
